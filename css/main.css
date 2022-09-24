@@ -1,0 +1,12 @@
+.background-img {
+    background-image: url('../images/services.jpg');
+    background-size: cover;
+    background-position: 0 0;
+}
+.bgLayer {
+    background-color: rgba(0, 0, 0, 0.87);
+}
+.P1212 {
+    font-size: 10px;
+    text-align: center;
+}

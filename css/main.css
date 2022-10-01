@@ -5,6 +5,7 @@
 }
 .bgLayer {
     background-color: rgba(0, 0, 0, 0.87);
+    Width:100%;
 }
 .P1212 {
     font-size: 10px;
@@ -14,5 +15,6 @@
 
 .footer-cntent {
     color: #748182;
-        font-size: 13px;
+    font-size: 13px;
+    Padding:10px 0px;
         }
